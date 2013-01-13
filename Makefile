@@ -6,7 +6,7 @@
 #
 
 PORTNAME=	xf86-video-scfb
-PORTVERSION=	0.0.1
+PORTVERSION=	0.0.2
 CATEGORIES=	x11-drivers
 MASTER_SITES=	http://people.freebsd.org/~ray/
 
