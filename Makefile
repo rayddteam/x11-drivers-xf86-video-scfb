@@ -11,8 +11,6 @@ MASTER_SITES=	ftp://rene-ladan.nl/pub/distfiles/ \
 MAINTAINER=	ray@FreeBSD.org
 COMMENT=	X.Org syscons display driver
 
-ONLY_FOR_ARCHS=	arm armv6 powerpc powerpc64 sparc64
-
 XORG_CAT=	driver
 
 .include <bsd.port.mk>
